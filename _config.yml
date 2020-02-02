@@ -14,12 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 # theme: jekyll-theme-so-simple
-remote_theme: "mmistakes/so-simple-theme"
-#remote_theme: "mmistakes/so-simple-theme@3.2.0"
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "/assets/css/skins/default.css"
 locale: en-US
-title: "My Awesome Site"
-description: "It really is the best."
+title: "SOCC Tech Blog"
+description: "개발자 동아리 SOCC의 활동 내역을 기록하는 블로그 입니다."
 baseurl: "/" # the subpath of your site, e.g. "/blog"
 url: "https://socc-io.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
